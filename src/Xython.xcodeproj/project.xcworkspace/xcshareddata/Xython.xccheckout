@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F43B3D1-09A5-4496-AE59-38A834D73B2F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xython</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>042FE7242FA1CC062D57CB747FE31F9422570A3B</key>
+		<string>https://github.com/x43x61x69/Xython.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/Xython.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>042FE7242FA1CC062D57CB747FE31F9422570A3B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/x43x61x69/Xython.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>042FE7242FA1CC062D57CB747FE31F9422570A3B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>042FE7242FA1CC062D57CB747FE31F9422570A3B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Xython</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -9,7 +9,7 @@
 /* Begin PBXFileReference section */
 		B70E79611AE3E7C800DD828E /* __init__.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = __init__.py; sourceTree = "<group>"; };
 		B70E79621AE3E87900DD828E /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		B70E79631AE3E88000DD828E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B70E79651AE3EA4500DD828E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -17,7 +17,7 @@
 			isa = PBXGroup;
 			children = (
 				B70E79621AE3E87900DD828E /* LICENSE */,
-				B70E79631AE3E88000DD828E /* README.md */,
+				B70E79651AE3EA4500DD828E /* README.md */,
 				B70E79641AE3E88800DD828E /* Scripts */,
 			);
 			sourceTree = "<group>";
